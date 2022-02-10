@@ -8,6 +8,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/* This is the beginning of the header and navigation */
+
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -24,6 +26,7 @@ body {
 .header h1 .seo {
   color: #d9dcd6;
 }
+/* end of header */
 
 .header nav {
   padding-top: 15px;
@@ -50,6 +53,8 @@ a {
 p {
   font-size: 16px;
 }
+
+/* This is the beginning of the hero */
 
 .hero {
   height: 800px;
